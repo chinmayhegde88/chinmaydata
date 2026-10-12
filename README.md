@@ -61,4 +61,4 @@ Python, TensorFlow/Keras, pandas, NumPy, scikit-learn, Matplotlib, KaggleHub.
 ## Author
 
 Chinmay Hegde, M.Sc. Statistics, University of Mysore.
-[LinkedIn](https://www.linkedin.com/in/chinmaych) | [GitHub](https://github.com/chinmayhegde88)
+[LinkedIn](https://www.linkedin.com/in/chinmaych) | [chinmayhegde88@gmail.com]
